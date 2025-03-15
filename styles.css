@@ -1,0 +1,22 @@
+/*this is just a test file to get some basic understanding of css style elements*/
+div {
+    color: black;
+    background-color: grey;
+}
+
+p {
+    color: black;
+}
+
+li  {
+    color: green;
+    text-align: left;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+
+img {
+    height: auto;
+    width: auto;
+}
